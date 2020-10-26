@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 THEME = "theme/bootstrap2"
+
+DISPLAY_PAGES_ON_MENU = False
