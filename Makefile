@@ -8,11 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=localhost
+SSH_HOST=linux151.unoeuro.com
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
-
+SSH_USER=angelos-projec.com
+SSH_TARGET_DIR=public_html/
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)

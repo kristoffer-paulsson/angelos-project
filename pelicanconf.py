@@ -36,5 +36,14 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 THEME = "theme/bootstrap2"
+STATIC_PATHS = ['images']
 
 DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    ('Users', 'user.html'),
+    ('Administratos', 'administrator.html'),
+    ('Developers', 'developer.html'),
+
+)

@@ -4,6 +4,8 @@ Date: 2020-10-26
 URL:
 save_as: index.html
 
+<img align="left" width="256" margin="0 0 18 0" src="images/angelos.png"/>
+
 The Angelos Project is an effort to bring secure, non-intrusive, private, and non-globalist owned social media platform. We hope to come up with a solution that is secure from intrusion and privacy snorting. This solution is for everyday persons, especially those that have a hard time communicating their thoughts and ideas to their surroundings without being supervised by the big-brother society.
 
 The idea behind this platform is to offer security and privacy without the risks of anonymity. We value privacy over anonymity and integrity over publicity.

@@ -29,7 +29,7 @@ config = {
         "License :: Free To Use But Restricted",
         "Topic :: Documentation"
     ],
-    "install_requires": ["pelican", "markdown", "gsutil"]
+    "install_requires": ["pelican", "markdown"]
 }
 
 setup(**config)
