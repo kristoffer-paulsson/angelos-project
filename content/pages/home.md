@@ -1,35 +1,116 @@
-Title: The Angelos Project
+Title: Start
 Author: Kristoffer Paulsson
-Date: 2020-10-26
-URL:
+Date: 2021-01-14
+status:
 save_as: index.html
+order: 1
 
-<img align="left" width="256" margin="0 0 18 0" src="images/angelos.png"/>
+The Angelos Project is used by those having needs to hide their good from the persecuting evildoers.
 
-The Angelos Project is an effort to bring secure, non-intrusive, private, and non-globalist owned social media platform. We hope to come up with a solution that is secure from intrusion and privacy snorting. This solution is for everyday persons, especially those that have a hard time communicating their thoughts and ideas to their surroundings without being supervised by the big-brother society.
+Welcome to the Free Republic of Libertania and unwelcome to the Rouge Regime of Crookistan! In this world, you can no longer trust worldly authorities or human governments. Therefore a safe and privately owned but distributed communication channel is needed. The main reason why Angelos and Logo were developed but not yet finished. Here we will introduce the concept and beg for voluntary developers and agents of benefactors to support The Angelos Project.
 
-The idea behind this platform is to offer security and privacy without the risks of anonymity. We value privacy over anonymity and integrity over publicity.
+## Concept of Angelos
 
-We are building a system based on community life and mutual trust between users on the network of communities. Each person, ministry, and church community are supposed to be equal peers with the disadvantage of lack of control over others. What is important is trust, respect, and confidentiality.
+Problems:
 
-Therefore we have developed a platform based on a client app and a server for communicating safely, distributed over multiple communities that are networking and cooperating. Every entity and communication is verified independently by a system of policies for check and balance, that is independently controlled.
+* Defamation: Groups and organizations defame churches, pastors, and others that stand up.
+* Shadow-banning: Suppression of Christian organizations and persons using algorithms and targeting.
+* Deplatforming: Christian organizations and persons are being de-platformed.
+* Eavesdropping: Crooked regimes are eavesdropping non-conformists.
+* Surveillance: Intelligence agencies monitor dissidents.
+* Shutdowns: Regimes are shutting down services for public use.
+* Persecution: Public persecution and discrimination, imprisonment, torture, and killings.
 
-### Client and server
+Suggested solutions:
 
-The name of the server derives from the koine Greek word for _messenger of diving message_, Ἄγγελος (Angelos). And the client from the phrase Λόγῳ (Logo) which means _word with an intent_.
+1. One big commercial operator, &rarr; Several ideal private operators.
+2. Proprietary standards &rarr; Open standards.
+3. Large datacenters &rarr; Spread out distributed nodes.
+4. Open networks &rarr; Encrypted communication tunnels.
+5. Readable information &rarr; Encrypted files and networks.
+6. Unverified identities &rarr; Peer-signed identities in a circle of trust.
 
-I intend to develop and release an app for Linux, macOS, Windows, iOS, and Android that is for everyday persons to use, also releasing a server for Windows and Linux servers. This software is licensed as open-source and is free to use. That implies that anyone can use it free of charge or limitations but at their own risk.
+## Technological Implementation
 
-Because anyone can download the Angelos server software, anyone can set up an available community, with the outcome of many different alternatives of communities to join. As a result, no corporation, organization, or government will be able to control who has access to the network.
+![Technological implementation in Angelos with server of a local assembly and a person with an app.]({attach}images/technologies-implementation.png)
 
-Because of the multitude of possible communities, the risk of being a digital outcast is minimal, while each community also can deal with individual perpetrators. Because no-one can hide behind anonymity, people that misbehave will be uncovered, which is the consequence of mutual trust and validation.
+* The domain-model with peer-2-peer nodes.
+* The document-model with certificates and public keys.
+* Archiving virtual filesystem with transparent encryption technology.
+* Network protocols for synchronization and services.
+* SSH with custom-built subsystems.
 
-### Technicalities
+## The Document Model
 
-Currently, to set up and use the Angelos server is very complicated, something that will be, improved upon in the future. Also, the Logo app will become much more user friendly.
+* All information consists of signed certificates.
+* All certificates have a unique ID-number.
+* All certificates are issued by you and for you, or someone you like.
+* Every certificate is verified every time using standardized policies for security.
+* All certificates belonging to an Entity is called a portfolio.
 
-**Circle of trust**; is a concept that builds upon mutual trust between entities. Every entity that interacts in a community can certify or verify anyone's identity and their trust in them. Because of this, trust is built, and mutuality takes place. Thanks to the circles of trust, new entities can verify the credibility of other entities.
+## Entities Friends Each-others
 
-**Certificates**; every entity on a network can issue certificates that are cryptographically signed, and therefore can not be forged. Therefore can falsifications never take place, and integrity is always guaranteed.
+An entity is a technical description of someone that is an actor within the Angelos network platform. Most likely a person but also ministries and the local assembly of believers in a city.
 
-**Domains**; every entity has its domain where they can store their private information that can be synced between devices or servers. Everyone is in charge over what information they share with other domains.
+![Person to person friending and person to assembly friending by exchange of profile and credential data.]({attach}images/persons-assembly.png)
+
+1. A client (user) and a server (network) exchange public keys and issues two certificates each, a) certificate of verified identity (objectively) and b) certificate of trust (subjectively). Then the client is enabled to logon to the server.
+2. Person A and Person B (both users) exchange public keys with each other and issues each a certificate of trust. Now A and B can privately message each other without eavesdropping.
+
+## The Domain Model
+
+* Every entity (person, ministry, and assembly) has a private domain that it owns and controls.
+* Each domain consists of at least one or several nodes, which are hardware units storing information.
+* All nodes within a domain are peers.
+* Nodes store all the information in fully encrypted filesystem archives.
+* Nodes synchronize their encrypted archives using replication technology.
+* Every node is thereby a backup of all other nodes.
+
+## Domain Node Network
+
+In this world, there will be nations that are more or less tolerant of the liberty of free speech and private communication. The rouge offices will try to shut down networks of assemblies to enable control and dismay the believers. Therefore a network domain should have nodes abroad in a tolerant nation. 
+
+* Two nodes in Crookistan and one in Libertania
+* Encrypted communication tunnels between server and clients
+* Perpetual synchronization of information within the domain nodes
+* Encrypted communication tunnels between nodes
+
+## Network Internal Messaging
+
+![A server domain lets its users send encrypted and signed mail that is routed internally.]({attach}images/assembly-routing.png)
+
+* A server domain is unable to read the message sent.
+* A server domain can see the sender and recipient.
+
+## Interdomain Network
+Network server domains can also friend each other, enabling routing messages between assemblies, interconnected to the vast international network.
+
+* Domains can connect for routing by friending between assemblies and ministries.
+* Encrypted communication tunnels between domains.
+* A fake domain portraying as a ministry or assembly domain set up by the secret services or international syndicates can be disconnected.
+
+## Interdomain Messaging
+Before a server domain is routing a message, it is encrypted a second time to conceal the original sender and recipient, thereby keeping the users anonymous if there are fake domains. 
+
+![A whole network of assemblies may offer secret interdomain mail routing.]({attach}images/interdomain-routing.png)
+
+* Senders and recipients are anonymized when routing outside the domain by encrypting the whole envelope.
+* Routing domain servers can only see the start and finish domain destinations but not users.
+
+## In the Future
+
+* Online status of friends
+* Search for contacts, domain-specific
+* Instant messaging
+* Stream of news, private, and assembly posts
+* Voice calls within a server domain
+* Mail routing interdomain
+* File upload and share of free and screened content
+
+## What has been done!
+
+There are two ongoing repositories in use, one for the app, the other for the server. Please have a look.
+
+[The Logo Messenger](https://github.com/kristoffer-paulsson/logo)
+
+[The Angelos server and libs](https://github.com/kristoffer-paulsson/angelos)
