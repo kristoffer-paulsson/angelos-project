@@ -2,7 +2,7 @@ Title: About
 Author: Kristoffer Paulsson
 Date: 2021-01-14
 status: hidden
-save_as: about.html
+url: pages/about.html
 order: 5
 
 The Angelos Project is an effort to bring secure, non-intrusive, private, and non-globalist owned social media platform. We hope to come up with a solution that is secure from intrusion and privacy snorting. This solution is for everyday persons, especially those that have a hard time communicating their thoughts and ideas to their surroundings without being supervised by the big-brother society.

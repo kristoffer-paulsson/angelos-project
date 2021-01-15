@@ -14,7 +14,7 @@ PATH = "content"
 TIMEZONE = "Europe/Stockholm"
 ROBOTS = "index, follow"
 I18N_TEMPLATES_LANG = DEFAULT_LANG = "en"
-COPYRIGHT_YEAR = "2020-2021"
+COPYRIGHT_YEAR = "2020-2021 content, logotype, names and illustrations by Kristoffer Paulsson. All rights reserved."
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
