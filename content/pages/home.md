@@ -1,14 +1,14 @@
-Title: Start
+Title: The Angelos Project
 Author: Kristoffer Paulsson
 Date: 2021-01-14
-status:
+status: hidden
 url: index.html
 save_as: index.html
 order: 1
 
 The Angelos Project is used by those having needs to hide their good from the persecuting evildoers.
 
-Welcome to the Free Republic of Libertania and unwelcome to the Rouge Regime of Crookistan! In this world, you can no longer trust worldly authorities or human governments. Therefore a safe and privately owned but distributed communication channel is needed. The main reason why Angelos and Logo were developed but not yet finished. Here we will introduce the concept and beg for voluntary developers and agents of benefactors to support The Angelos Project.
+Welcome to the Free Republic of Libertania and unwelcome to the Rogue Regime of Crookistan! In this world, you can no longer trust worldly authorities or human governments. Therefore a safe and privately owned but distributed communication channel is needed. The main reason why Angelos and Logo were developed but not yet finished. Here we will introduce the concept and beg for voluntary developers and agents of benefactors to support The Angelos Project.
 
 ## Concept of Angelos
 
@@ -69,7 +69,7 @@ An entity is a technical description of someone that is an actor within the Ange
 
 ## Domain Node Network
 
-In this world, there will be nations that are more or less tolerant of the liberty of free speech and private communication. The rouge offices will try to shut down networks of assemblies to enable control and dismay the believers. Therefore a network domain should have nodes abroad in a tolerant nation. 
+In this world, there will be nations that are more or less tolerant of the liberty of free speech and private communication. The rogue offices will try to shut down networks of assemblies to enable control and dismay the believers. Therefore a network domain should have nodes abroad in a tolerant nation. 
 
 * Two nodes in Crookistan and one in Libertania
 * Encrypted communication tunnels between server and clients

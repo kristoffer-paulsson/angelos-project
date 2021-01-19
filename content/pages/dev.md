@@ -5,6 +5,14 @@ Category: Developer
 url: pages/developers.html
 order: 4
 
+## Explanations
+
+[Source code packages](../packages-and-subpackages.html)
+
+[Internal levels](../layered-levels.html)
+
+[Policy system](../policy-system.html)
+
 ## Coding conduct
 
-[Exception handling the correct way](../exceptions-in-angelos-source-code.html)
+[Exception handling the correct way](../exceptions-handling.html)

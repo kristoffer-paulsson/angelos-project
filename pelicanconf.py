@@ -26,11 +26,16 @@ AUTHOR_FEED_RSS = None
 # Social widget
 # SOCIAL = (("", ""),)
 
-ARTICLE_ORDER_BY = 'sort'
-PAGE_ORDER_BY = 'order'
+ARTICLE_ORDER_BY = "sort"
+PAGE_ORDER_BY = "order"
+
+RELATIVE_URLS = False
 
 CATEGORY_URL = "category/{slug}.html"
 CATEGORY_SAVE_AS = "category/{slug}.html"
+
+# PAGE_URL = 'pages/{slug}.html'
+# PAGE_SAVE_AS = 'pages/{slug}.html'
 
 DEFAULT_PAGINATION = 5
 
@@ -44,14 +49,15 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MAIN_MENU = False
-MENU_ITEMS= [
-    ("Home", "index.html"),
+MENU_ITEMS = [
+    ("Home", "/index.html"),
     # ("About", "about.html"),
     ("Users", "/user.html"),
     ("Administratos", "/administrator.html"),
     ("Developers", "/developer.html"),
+
 ]
 
 LINKS = (
-
+    ("Blog", "/category/blog.html"),
 )
