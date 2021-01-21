@@ -16,3 +16,7 @@ order: 4
 ## Coding conduct
 
 [Exception handling the correct way](../exceptions-handling.html)
+
+## Miscellaneous
+
+[Roadmap over progess and issues](roadmap.html)

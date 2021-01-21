@@ -24,7 +24,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-# SOCIAL = (("", ""),)
+SOCIAL = (
+    ("github", "https://github.com/kristoffer-paulsson/angelos"),
+    ("frog", "https://gab.com/angelos_project"),
+)
 
 ARTICLE_ORDER_BY = "sort"
 PAGE_ORDER_BY = "order"
