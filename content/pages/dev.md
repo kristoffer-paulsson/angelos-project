@@ -1,9 +1,12 @@
 Title: Developers
 Author: Kristoffer Paulsson
 Date: 2020-10-26
+Modified: 2021-01-26
 Category: Developer
 url: pages/developers.html
 order: 4
+
+The [documentation](http://docs.angelos-project.com) for the project can is found here!
 
 ## Explanations
 

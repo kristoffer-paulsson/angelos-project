@@ -6,7 +6,7 @@ SITEURL = "https://angelos-project.com"
 SITENAME = "The Angelos Project"
 SITETITLE = SITENAME
 SITESUBTITLE = "Ἄγγελος: messenger of divine message, Λόγῳ: word with an intent."
-SITEDESCRIPTION = ""
+SITEDESCRIPTION = """Welcome to the Free Republic of Libertania and unwelcome to the Rogue Regime of Crookistan! In this world, you can no longer trust worldly authorities or human governments. Therefore a safe and privately owned but distributed communication channel is needed. The main reason why Angelos and Logo were developed but not yet finished. Here we will introduce the concept and beg for voluntary developers and agents of benefactors to support The Angelos Project."""
 SITELOGO = SITEURL + "/images/angelos.png"
 FAVICON = SITEURL + "/images/favicon.ico"
 
@@ -58,7 +58,6 @@ MENU_ITEMS = [
     ("Users", "/user.html"),
     ("Administratos", "/administrator.html"),
     ("Developers", "/developer.html"),
-
 ]
 
 LINKS = (

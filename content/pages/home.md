@@ -1,7 +1,7 @@
 Title: The Angelos Project
 Author: Kristoffer Paulsson
 Date: 2021-01-14
-Modified: 2012-01-21
+Modified: 2021-01-26
 status: hidden
 url: index.html
 save_as: index.html
@@ -114,6 +114,8 @@ Before a server domain is routing a message, it is encrypted a second time to co
 There are two ongoing repositories in use, one for the app, the other for the server. Please have a look.
 
 [Roadmap](/pages/roadmap.html)
+
+[Doucmentation](http://docs.angelos-project.com)
 
 [The Logo Messenger](https://github.com/kristoffer-paulsson/logo)
 
