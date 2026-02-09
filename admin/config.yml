@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: kristoffer-paulsson/angelos-project
+  branch: master
+
+publish_mode: editorial_workflow

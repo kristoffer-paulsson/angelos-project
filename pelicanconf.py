@@ -56,7 +56,7 @@ MENU_ITEMS = [
     ("Home", "/index.html"),
     # ("About", "about.html"),
     ("Users", "/user.html"),
-    ("Administratos", "/administrator.html"),
+    ("Administrators", "/administrator.html"),
     ("Developers", "/developer.html"),
 ]
 
