@@ -46,7 +46,7 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 THEME = "theme/flex"
-STATIC_PATHS = ["images"]
+STATIC_PATHS = ["images", "admin/index.html"]
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
