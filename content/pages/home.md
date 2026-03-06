@@ -1,4 +1,4 @@
-Title: The Angelos Project
+Title: The Angelos Project™
 Author: Kristoffer Paulsson
 Date: 2021-01-14
 Modified: 2021-01-26
@@ -7,7 +7,7 @@ url: index.html
 save_as: index.html
 order: 1
 
-The Angelos Project is used by those having needs to hide their good from the persecuting evildoers.
+The Angelos Project™ is used by those having needs to hide their good from the persecuting evildoers.
 
 Welcome to the Free Republic of Libertania and unwelcome to the Rogue Regime of Crookistan! In this world, you can no longer trust worldly authorities or human governments. Therefore a safe and privately owned but distributed communication channel is needed. The main reason why Angelos and Logo were developed but not yet finished. Here we will introduce the concept and beg for voluntary developers and agents of benefactors to support The Angelos Project.
 
