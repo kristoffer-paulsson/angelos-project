@@ -19,7 +19,7 @@ The [Flex theme](https://github.com/alexandrevicenzi/Flex) for Pelican.
 * [pelican-series](https://github.com/pelican-plugins/series)
 * [pelican-related-posts](https://github.com/pelican-plugins/related-posts)
 * [pelican-statistics](https://github.com/pelican-plugins/statistics)
-* (pelican-i18n-subsites) [pelican-i18n-subsites](https://github.com/pelican-plugins/i18n-subsites)
+* (?) [pelican-i18n-subsites](https://github.com/pelican-plugins/i18n-subsites)
 
 
 
