@@ -6,3 +6,12 @@ blinker
 Unidecode
 MarkupSafe
 python-dateutil
+
+# Pelican plugins
+pelican-seo
+pelican-neighbors
+pelican-featured-image
+pelican-series
+pelican-related-posts
+pelican-statistics
+pelican-i18n-subsites
