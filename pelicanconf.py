@@ -25,8 +25,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
-    ("github", "https://github.com/kristoffer-paulsson/angelos"),
-    ("frog", "https://gab.com/angelos_project"),
+    ("github", "https://github.com/angelos-project"),
 )
 
 ARTICLE_ORDER_BY = "sort"
@@ -54,10 +53,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MAIN_MENU = False
 MENU_ITEMS = [
     ("Home", "/index.html"),
-    # ("About", "about.html"),
-    ("Users", "/user.html"),
-    ("Administrators", "/administrator.html"),
     ("Developers", "/developer.html"),
+    # ("About", "about.html"),
+    # ("Users", "/user.html"),
+    #("Administrators", "/administrator.html"),
 ]
 
 LINKS = (
